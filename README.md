@@ -26,32 +26,30 @@ The app features:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/telo-chat-app.git
-cd telo-chat-app
-2. Create .env File
+```
+git clone https://github.com/SyedAbdurRahman/REAL-TIME-CHAT-APPLICATION.git
+cd REAL-TIME-CHAT-APPLICATION
+```
+### 2. Create .env File
 Create a .env file in the root directory and add the following:
-
-env
-Copy
-Edit
+.env
+```
 # (Insert your .env content here)
-3. Install Dependencies
-bash
-Copy
-Edit
+```
+
+### 3. Install Dependencies
+```
 npm install
-4. Build the Project
-bash
-Copy
-Edit
+```
+### 4. Build the Project
+```
 npm run build
-5. Start the Application
-bash
-Copy
-Edit
+```
+### 5. Start the Application
+```
 npm run start
-6. Deployment
+```
+### 6. Deployment
 To host the chat app on Render, follow these steps:
 
 Push your project to GitHub.
