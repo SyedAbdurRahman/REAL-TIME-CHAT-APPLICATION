@@ -9,7 +9,7 @@
 
 ---
 
-# 🐦 Telo
+#  Telo
 
 **Telo** is a modern, real-time chat application that enables users to communicate instantly through a seamless interface. Built with a powerful MERN stack, Telo uses **ReactJS**, **Tailwind CSS**, **MongoDB**, and **Socket.IO** for real-time bidirectional communication.
 
@@ -54,8 +54,8 @@ To host the chat app on Render, follow these steps:
 - Push your project to GitHub.
 - Create a new web service in Render.
 - Connect the repository and specify the build command and start command:
-- Build Command: *npm run build*
-- Start Command: *npm run start*
+- Build Command:         **npm run build**
+- Start Command:         **npm run start**
 - Add environment variables in the Render dashboard as defined in your .env file.
 
 ---
