@@ -65,6 +65,8 @@ To host the chat app on Render, follow these steps:
 - Start Command: npm run start
 - Add environment variables in the Render dashboard as defined in your .env file.
 
+---
+
 ## 📬 Contact
 For any queries, feel free to contact:
 📧 syed180303@gmail.com
