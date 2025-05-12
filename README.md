@@ -20,6 +20,8 @@ The app features:
 - Real-time WebSocket communication via Socket.IO
 - Scalable backend with Express and MongoDB
 
+![Image](https://github.com/user-attachments/assets/f681bbee-c116-4b64-a625-9a40e1f837ac)
+
 ---
 
 ## ⚙️ Getting Started
