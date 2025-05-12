@@ -79,6 +79,6 @@ Various resources and third-party libraries were used, including:
 
 No commercial use is intended.
 
-
+---
 
 Happy chatting with Telo! 🚀
