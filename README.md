@@ -9,7 +9,7 @@
 
 ---
 
-## 📱 Telo – Real-time Chat App
+# 🐦 Telo
 
 **Telo** is a modern, real-time chat application that enables users to communicate instantly through a seamless interface. Built with a powerful MERN stack, Telo uses **ReactJS**, **Tailwind CSS**, **MongoDB**, and **Socket.IO** for real-time bidirectional communication.
 
