@@ -56,14 +56,15 @@ To host the chat app on Render, follow these steps:
 - Push your project to GitHub.
 - Create a new web service in Render.
 - Connect the repository and specify the build command and start command:
-- Build Command:         **npm run build**
-- Start Command:         **npm run start**
+- Build Command:        ```npm run build```
+- Start Command:         ```npm run start```
 - Add environment variables in the Render dashboard as defined in your .env file.
 
 ---
 
 ## 📬 Contact
 For any queries, feel free to contact:
+
 📧 syed180303@gmail.com
 
 ---
