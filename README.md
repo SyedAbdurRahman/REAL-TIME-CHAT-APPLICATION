@@ -22,6 +22,12 @@ The app features:
 
 ![Image](https://github.com/user-attachments/assets/f681bbee-c116-4b64-a625-9a40e1f837ac)
 
+![Image](https://github.com/user-attachments/assets/a3a6f6fa-3385-425c-b914-818f720a5258)
+
+![Image](https://github.com/user-attachments/assets/e3fee8ed-48b5-480c-b46a-64dda19d979b)
+
+![Image](https://github.com/user-attachments/assets/192868d2-0d7c-482e-93f3-d5b790960b56)
+
 ---
 
 ## ⚙️ Getting Started
