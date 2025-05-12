@@ -73,6 +73,7 @@ Various resources and third-party libraries were used, including:
 - Cloudinary
 - LLM models
 - Video sources
+
 No commercial use is intended.
 
 
